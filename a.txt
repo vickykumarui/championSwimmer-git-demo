@@ -1,0 +1,9 @@
+to initialize a git repo 
+	git init
+to create new file use command
+	touch filename 
+to edit file
+	nano filename
+shortcut to show and hide hidden file 
+	ctrl+shift+.
+

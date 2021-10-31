@@ -7,4 +7,4 @@ to edit file
 shortcut to show and hide hidden file 
 	ctrl+shift+.
 
-test
+Git log --oneline --color --graph --decorate

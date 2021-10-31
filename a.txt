@@ -8,3 +8,5 @@ shortcut to show and hide hidden file
 	ctrl+shift+.
 
 Git log --oneline --color --graph --decorate
+
+new commit after feature branch
